@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Rust and Blockchain.
+- 🌱 I’m currently learning about management.
 - 💬 Ask me anything about React or React-Native! I'll try to help you.
 - ⚡ Fun fact: I just like complex tech stuff
 
