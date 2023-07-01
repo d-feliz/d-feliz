@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning about engineering management.
+- 🌱 I’m currently learning about quantum computing.
 - 💬 Ask me anything about React or React-Native! I'll try to help you.
 - ⚡ Fun fact: I just like complex tech stuff
 
