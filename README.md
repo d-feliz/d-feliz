@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning about quantum computing.
+- 🌱 I’m currently learning 日本語.
 - 💬 Ask me anything about React or React-Native! I'll try to help you.
-- ⚡ Fun fact: I just like complex tech stuff
+- ⚡ Fun fact: I just like complex tech stuff, even if I can't understand lol
 
 ## Tech I've used
 
