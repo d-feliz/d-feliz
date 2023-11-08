@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning mobile animations.
+- 🌱 I’m currently learning to play chess.
 - 💬 Ask me anything about React or React-Native! I'll try to help you.
 - ⚡ Fun fact: I just like complex tech stuff, even if I can't understand lol
 
