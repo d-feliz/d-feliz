@@ -2,7 +2,6 @@
 
 - 🌱 Progressively learning.
 - 💬 Ask me anything about React or React-Native! I'll do my best to help you.
-- ⚡ Fun fact: I just like complex tech stuff, even if I can't understand lol.
 
 ## Tech I've used
 
