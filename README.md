@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-- 🌱 Progressively learning.
-- 💬 Ask me anything about React or React-Native! I'll do my best to help you.
-
 ## Tech I've used
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
