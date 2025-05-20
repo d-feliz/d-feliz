@@ -32,5 +32,5 @@
 
 ## Some stats
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfeliz&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dfeliz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-feliz&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-feliz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
