@@ -23,11 +23,8 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## Langs
 <div style="display: flex; align-items: center; justify-content: center;">
-  <div style="display: flex; height: 24px; width: 24px;">
-    <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/00d4b6a8-f0da-4823-9265-37edf0283599" />
-  </div>
-  
   <div style="display: flex; height: 24px; width: 24px;">
     <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/313bc9e3-744d-469c-b8f1-b1c08cccecbf" />
     <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/88a4b53d-4e79-487f-954a-a33fa35359c9" />
