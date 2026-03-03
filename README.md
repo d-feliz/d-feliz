@@ -23,7 +23,17 @@
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## Some stats
+<div style="display: flex; align-items: center; justify-content: center;">
+  <div style="display: flex; height: 24px; width: 24px;">
+    <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/00d4b6a8-f0da-4823-9265-37edf0283599" />
+  </div>
+  
+  <div style="display: flex; height: 24px; width: 24px;">
+    <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/313bc9e3-744d-469c-b8f1-b1c08cccecbf" />
+    <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/88a4b53d-4e79-487f-954a-a33fa35359c9" />
+    <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/bf3cdf8a-7a4e-4ceb-a029-67a6a221e078" />
+    <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/5880a96e-902f-445d-bcf2-e384db20d52b" />
+    <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/e25a4447-5538-4144-b24c-365792f7d158" />
+  </div>
+</div>
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-feliz&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-feliz&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
