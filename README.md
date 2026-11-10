@@ -14,8 +14,7 @@
  
 ### 🧭 What I do
  
-I build mobile apps and the systems behind them: the app, the backend, the web frontend and the admin panel.
-I own architecture, features, infrastructure and the release process — not just tickets.
+I build mobile apps and the systems behind them.
  
 ### 🛠️ What I'm building
  
