@@ -14,7 +14,7 @@
  
 ### 🧭 What I do
  
-I build mobile apps and the systems behind them.
+I build apps and the systems behind them.
  
 ### 🛠️ What I'm building
  
